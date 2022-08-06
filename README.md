@@ -1,1 +1,1 @@
-# it helps to handle student's data
+# it handles student's data
