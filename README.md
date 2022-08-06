@@ -1,1 +1,1 @@
-# student_managment_system
+# it helps to handle student's data
